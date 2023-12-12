@@ -2,7 +2,7 @@
 
   
 -  👩🏻‍🎓 Bacharel em Ciencia da computação
--  👩🏻‍🎓 Estudando de Pós em Data Science
+-  👩🏻‍🎓 Cursando Pós em Data Science
 
   
 
