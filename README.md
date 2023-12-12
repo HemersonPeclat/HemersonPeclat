@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @HemersonPeclat
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#### Olá, sou Hemerson Peclat
+
+  
+-  👩🏻‍🎓 Bacharel em Ciencia da computação
+-  👩🏻‍🎓 Estudando de Pós em Data Science
+
+  
 
 <!---
 HemersonPeclat/HemersonPeclat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
